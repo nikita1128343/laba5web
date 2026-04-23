@@ -209,3 +209,31 @@ code {
 .subtitle {
     text-align: center;
 }
+.credentials {
+    background: #2c5f2d;
+    border: 2px solid #39e704;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 8px;
+    font-size: 1.1em;
+    color: #ffffff !important;
+}
+
+.credentials strong {
+    color: #ffffff !important;
+    font-weight: bold;
+}
+
+.credentials small {
+    color: #dddddd !important;
+}
+
+.success-message {
+    background: #2c5f2d;
+    color: #ffffff !important;
+    padding: 14px;
+    border-radius: 12px;
+    margin-bottom: 25px;
+    text-align: center;
+    border-left: 4px solid #39e704;
+}
