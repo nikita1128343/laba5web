@@ -1,4 +1,4 @@
-mysql -u u82457 -p
+mysql -u u82460 -p
 
 USE u82457;
 ALTER TABLE application
